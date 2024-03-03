@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <Section>
             <div className="background">
-                <img src={HeroImage} alt="Hero" />
+                <img src="https://www.goodfreephotos.com/albums/other-landscapes/clouds-on-the-mountains-landscape.jpg" alt="Hero" />
             </div>
             <div className="content">
                 <div className="info">
